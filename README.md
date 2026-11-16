@@ -1,59 +1,70 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="RZY — Suren Ayvazyan | developer identity, pixel art night header" width="100%" />
+<img src="./assets/hero.svg" alt="RZY — Suren Ayvazyan, midnight developer header" width="100%" />
 
-### Fullstack developer in progress
+**Developer in progress · Yerevan, Armenia**
 
-<sub>Based in Yerevan, Armenia &nbsp;·&nbsp; English B2 &nbsp;·&nbsp; Curious by default</sub>
+<sub>Interested in how ideas become complete, reliable web applications.</sub>
 
-<br/><br/>
-
-<a href="https://github.com/count-rzy?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/count-rzy?style=flat-square&label=followers&labelColor=0b1b36&color=427ca5" /></a>
-<a href="https://github.com/count-rzy?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/GitHub-explore%20repos-427ca5?style=flat-square&labelColor=0b1b36" /></a>
+[![GitHub](https://img.shields.io/badge/GITHUB-count--rzy-0b1d35?style=for-the-badge&logo=github&logoColor=9ddce4)](https://github.com/count-rzy)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-contact-0b1d35?style=for-the-badge&logo=telegram&logoColor=9ddce4)](https://t.me/count_rzy)
+[![Location](https://img.shields.io/badge/BASED_IN-YEREVAN-0b1d35?style=for-the-badge&logo=googlemaps&logoColor=9ddce4)](https://en.wikipedia.org/wiki/Yerevan)
 
 </div>
 
-<br/>
+### `// IDENTITY & TOOLKIT`
 
-<img src="./assets/terminal.svg" alt="Terminal profile containing developer focus and technology stack" width="100%" />
+<img src="./assets/terminal.svg" alt="RZY developer identity and toolkit terminal" width="100%" />
 
-### `01 / ABOUT`
+### `// A LITTLE ABOUT ME`
 
-I'm **Suren**, a developer focused on learning how complete web applications work — from interfaces and user experience to APIs and databases.
+I'm **Suren**. I study software development and enjoy both sides of the web: the interfaces people use and the systems that make them work. I like debugging, building things from scratch, and understanding *why* a solution works rather than just getting it to run.
 
-I enjoy problem-solving, clean structure, and turning ideas into something functional. I'm still improving my skills, one step at a time.
+<table>
+<tr><td width="50%" valign="top">
 
-### `02 / TOOLKIT`
+**`01 / I ENJOY`**
+
+- 🧩 Problem-solving and clean logic
+- 🖥️ Thoughtful UI and smooth interactions
+- ⚙️ APIs, architecture, and databases
+- 🌙 Pixel art and midnight-blue aesthetics
+
+</td><td width="50%" valign="top">
+
+**`02 / I'M EXPLORING`**
+
+- 🌐 Fullstack application development
+- 🔐 Authentication and API design
+- 🗃️ Working with relational data
+- 🧪 Testing and maintainable code
+
+</td></tr>
+</table>
+
+### `// STACK AT A GLANCE`
 
 <div align="center">
 
-<img alt="Python" src="https://img.shields.io/badge/Python-0b1b36?style=for-the-badge&logo=python&logoColor=9ccbe6" />
-<img alt="Django" src="https://img.shields.io/badge/Django-0b1b36?style=for-the-badge&logo=django&logoColor=9ccbe6" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0b1b36?style=for-the-badge&logo=javascript&logoColor=9ccbe6" />
-<img alt="React" src="https://img.shields.io/badge/React-0b1b36?style=for-the-badge&logo=react&logoColor=9ccbe6" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0b1b36?style=for-the-badge&logo=postgresql&logoColor=9ccbe6" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-0b1b36?style=for-the-badge&logo=html5&logoColor=9ccbe6" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-0b1b36?style=for-the-badge&logo=css&logoColor=9ccbe6" />
-<img alt="Git" src="https://img.shields.io/badge/Git-0b1b36?style=for-the-badge&logo=git&logoColor=9ccbe6" />
+![Python](https://img.shields.io/badge/Python-0b1b36?style=flat-square&logo=python&logoColor=83c5e7)
+![Django](https://img.shields.io/badge/Django-0b1b36?style=flat-square&logo=django&logoColor=83c5e7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1b36?style=flat-square&logo=javascript&logoColor=83c5e7)
+![React](https://img.shields.io/badge/React-0b1b36?style=flat-square&logo=react&logoColor=83c5e7)
+![HTML5](https://img.shields.io/badge/HTML5-0b1b36?style=flat-square&logo=html5&logoColor=83c5e7)
+![CSS3](https://img.shields.io/badge/CSS3-0b1b36?style=flat-square&logo=css3&logoColor=83c5e7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1b36?style=flat-square&logo=postgresql&logoColor=83c5e7)
+![Git](https://img.shields.io/badge/Git-0b1b36?style=flat-square&logo=git&logoColor=83c5e7)
 
 </div>
 
-### `03 / ACTIVITY`
+### `// REAL ACTIVITY`
 
 <div align="center">
 
-<a href="https://github.com/count-rzy?tab=overview&from=2026-01-01&to=2026-12-31"><img alt="See real contributions on GitHub" src="https://img.shields.io/badge/VIEW-LIVE%20CONTRIBUTIONS-427ca5?style=for-the-badge&labelColor=0b1b36" /></a>
+[![Contributions](https://img.shields.io/badge/OPEN-MY_GITHUB_ACTIVITY-204568?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/count-rzy?tab=overview)
 
-<sub>Real commits, real progress. GitHub's native contribution graph lives right below this README.</sub>
+<sub>No fictional numbers, no invented achievements — just actual progress.</sub>
 
 </div>
 
-### `04 / CONNECT`
-
-[**GitHub**](https://github.com/count-rzy) · [**Telegram**](https://t.me/count_rzy)
-
-<br/>
-
-<img src="./assets/footer.svg" alt="Signal active — keep moving forward" width="100%" />
-
-<div align="center"><sub>Designed for a little less noise and a little more personality.</sub></div>
+<img src="./assets/footer.svg" alt="RZY — keep building, keep learning" width="100%" />
