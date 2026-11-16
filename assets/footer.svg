@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="108" viewBox="0 0 1200 108" role="img" aria-label="RZY — signal active. Keep moving forward.">
+<style>.led{animation:pulse 3.5s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="2" y="2" width="1196" height="104" rx="12" fill="#0a192f" stroke="#355d80" stroke-width="2"/>
+<path d="M34 54H182M1018 54H1166" stroke="#315777" stroke-dasharray="5 7"/>
+<circle cx="213" cy="54" r="6" fill="#78d0c8" class="led"/>
+<text x="239" y="60" font-family="Consolas,Menlo,monospace" font-size="18" fill="#b8d8e8">SIGNAL ACTIVE</text>
+<text x="960" y="60" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="18" fill="#86b6d3">KEEP MOVING FORWARD_</text>
+</svg>
