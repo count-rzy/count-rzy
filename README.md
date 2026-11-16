@@ -1,70 +1,121 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="RZY — Suren Ayvazyan, midnight developer header" width="100%" />
+<img src="./assets/hero.svg" width="100%" alt="RZY — Fullstack Developer and AI Specialist, night train banner" />
 
-**Developer in progress · Yerevan, Armenia**
+<br>
 
-<sub>Interested in how ideas become complete, reliable web applications.</sub>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-count--rzy-0b1d35?style=for-the-badge&logo=github&logoColor=9ddce4)](https://github.com/count-rzy)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-contact-0b1d35?style=for-the-badge&logo=telegram&logoColor=9ddce4)](https://t.me/count_rzy)
-[![Location](https://img.shields.io/badge/BASED_IN-YEREVAN-0b1d35?style=for-the-badge&logo=googlemaps&logoColor=9ddce4)](https://en.wikipedia.org/wiki/Yerevan)
+**`FULLSTACK DEVELOPER`** &nbsp; / &nbsp; **`AI SPECIALIST`**
 
 </div>
 
-### `// IDENTITY & TOOLKIT`
+## `01 // TECH ARSENAL`
 
-<img src="./assets/terminal.svg" alt="RZY developer identity and toolkit terminal" width="100%" />
+<div align="center">
 
-### `// A LITTLE ABOUT ME`
+**FRONTEND**
 
-I'm **Suren**. I study software development and enjoy both sides of the web: the interfaces people use and the systems that make them work. I like debugging, building things from scratch, and understanding *why* a solution works rather than just getting it to run.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,sass,vite&amp;theme=dark" alt="HTML5, CSS3, JavaScript, React, Next.js, Sass, Vite" />
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres&amp;theme=dark" alt="Python, Django, PostgreSQL" />
+
+**WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&amp;theme=dark" alt="Git, GitHub, VS Code, Postman" />
+
+</div>
+
+## `02 // AI EXPERTISE`
+
+<img src="./assets/ai-workflow.svg" width="100%" alt="AI-assisted development: prompt design, debugging, analysis, automation" />
+
+I work with **LLMs and AI-powered development tools** for practical tasks: turning requirements into structured plans, exploring solutions, debugging code, reviewing implementations, and accelerating repetitive workflows. I focus on **prompt design, context management, checking outputs, and understanding the generated code** rather than trusting it blindly.
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-122C46?style=for-the-badge&logo=openai&logoColor=9BDCE5)
+![OpenAI Codex](https://img.shields.io/badge/Codex-122C46?style=for-the-badge&logo=openai&logoColor=9BDCE5)
+![Gemini](https://img.shields.io/badge/Gemini-122C46?style=for-the-badge&logo=googlegemini&logoColor=9BDCE5)
+
+</div>
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**`01 / I ENJOY`**
+**`AI / APPLICATION`**
 
-- 🧩 Problem-solving and clean logic
-- 🖥️ Thoughtful UI and smooth interactions
-- ⚙️ APIs, architecture, and databases
-- 🌙 Pixel art and midnight-blue aesthetics
+- Prompt engineering and iteration
+- AI-assisted coding and debugging
+- Research, synthesis and technical explanations
+- Workflow improvement and automation
 
-</td><td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-**`02 / I'M EXPLORING`**
+**`ENGINEERING / PRACTICE`**
 
-- 🌐 Fullstack application development
-- 🔐 Authentication and API design
-- 🗃️ Working with relational data
-- 🧪 Testing and maintainable code
+- React interfaces and component architecture
+- Django REST APIs and authentication
+- PostgreSQL and data modeling
+- Git workflows, testing and troubleshooting
 
-</td></tr>
+</td>
+</tr>
 </table>
 
-### `// STACK AT A GLANCE`
+## `03 // DEVELOPMENT FOCUS`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**`FRONTEND`**
+
+React · Next.js · JavaScript
+
+Reusable components, state, responsive UI and user interactions.
+
+</td>
+<td width="33%" valign="top">
+
+**`BACKEND`**
+
+Python · Django · DRF
+
+APIs, authentication, business logic and reliable data flow.
+
+</td>
+<td width="33%" valign="top">
+
+**`AI WORKFLOW`**
+
+LLMs · Prompting · Codex
+
+Specification, prototyping, code review and verification.
+
+</td>
+</tr>
+</table>
+
+## `04 // GITHUB`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0b1b36?style=flat-square&logo=python&logoColor=83c5e7)
-![Django](https://img.shields.io/badge/Django-0b1b36?style=flat-square&logo=django&logoColor=83c5e7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1b36?style=flat-square&logo=javascript&logoColor=83c5e7)
-![React](https://img.shields.io/badge/React-0b1b36?style=flat-square&logo=react&logoColor=83c5e7)
-![HTML5](https://img.shields.io/badge/HTML5-0b1b36?style=flat-square&logo=html5&logoColor=83c5e7)
-![CSS3](https://img.shields.io/badge/CSS3-0b1b36?style=flat-square&logo=css3&logoColor=83c5e7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1b36?style=flat-square&logo=postgresql&logoColor=83c5e7)
-![Git](https://img.shields.io/badge/Git-0b1b36?style=flat-square&logo=git&logoColor=83c5e7)
+<a href="https://github.com/count-rzy?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-173453?style=for-the-badge&logo=github&logoColor=B8E5EE" alt="Repositories" /></a>
+<a href="https://github.com/count-rzy?tab=overview"><img src="https://img.shields.io/badge/CONTRIBUTIONS-VIEW-173453?style=for-the-badge&logo=github&logoColor=B8E5EE" alt="Contributions" /></a>
 
 </div>
 
-### `// REAL ACTIVITY`
+## `05 // LINKS`
 
 <div align="center">
 
-[![Contributions](https://img.shields.io/badge/OPEN-MY_GITHUB_ACTIVITY-204568?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/count-rzy?tab=overview)
-
-<sub>No fictional numbers, no invented achievements — just actual progress.</sub>
+<a href="https://github.com/count-rzy"><img src="https://img.shields.io/badge/GitHub-count--rzy-0D2137?style=for-the-badge&logo=github&logoColor=DBF4FA" alt="GitHub" /></a>
+<a href="https://t.me/count_rzy"><img src="https://img.shields.io/badge/Telegram-count__rzy-0D2137?style=for-the-badge&logo=telegram&logoColor=DBF4FA" alt="Telegram" /></a>
 
 </div>
 
-<img src="./assets/footer.svg" alt="RZY — keep building, keep learning" width="100%" />
+<br>
+<img src="./assets/footer.svg" width="100%" alt="RZY footer" />
