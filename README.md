@@ -36,7 +36,7 @@
 
 I use **LLMs and AI development tools** as part of the engineering workflow — from breaking down requirements and exploring architectures to debugging, reviewing changes, and automating repetitive work. My focus is on **prompt engineering, context management, and verifying model output** rather than accepting generated code without understanding it.
 
-**Tools:** ChatGPT · Codex · Gemini  
+**Tools:** ChatGPT · Codex · Gemini · Claude · Claude Code · figma make · Kimi · Grok
 **Applied to:** React / Next.js interfaces · Django REST APIs · PostgreSQL-backed applications
 
 ## `03 // DEVELOPMENT`
