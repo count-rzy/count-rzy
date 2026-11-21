@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="RZY — Fullstack Developer / AI Specialist. Night pixel-art train scene." />
+<img src="./assets/hero-forward.svg" width="100%" alt="RZY — Fullstack Developer / AI Specialist. Night pixel-art train scene." />
 
 ### Fullstack Developer · AI Specialist
 
